@@ -41,4 +41,4 @@ git clone https://github.com/vimjamsamatha2018/major_project.git
 cd major_project
 
 ### Screenshot-Sample generated text
-[shakespeare][text.png]
+[shakespeare](text.png)
