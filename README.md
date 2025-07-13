@@ -39,6 +39,17 @@ This project shows the power of deep learning in mimicking human language.
 ```bash
 git clone https://github.com/vimjamsamatha2018/major_project.git
 cd major_project
+```
 
 ## 📸 Screenshot-HomePage Preview
-[click this to view output](https://github.com/vimjamsamatha2018/major_projec/blob/main/screenshots/text.png?raw=true)
+![text output](text.png)
+.
+
+## 🙌 Contributing
+Pull requests are welcome! For major changes, open an issue to discuss what you want to improve.
+> 🔁 Replace `"your-username"` with your GitHub username.  
+> 📷 Add screenshots or generated text images in a `screenshots/` folder.  
+> Let me know if you want a **GitHub Pages demo**, **paper link**, or **Jupyter Notebook upload instructions**.
+
+
+
