@@ -30,4 +30,15 @@ This project shows the power of deep learning in mimicking human language.
 - Keras  
 - NumPy, Pandas  
 - Matplotlib 
-- Jupyter Notebook  
+- Jupyter Notebook
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/vimjamsamatha2018/major_project.git
+cd major_project
+
+### Screenshot-Sample generated text
+[shakespeare][text.png]
