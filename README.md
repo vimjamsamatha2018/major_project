@@ -40,5 +40,7 @@ This project shows the power of deep learning in mimicking human language.
 git clone https://github.com/vimjamsamatha2018/major_project.git
 cd major_project
 
-### Screenshot-Sample generated text
-![text generation output](text.png)
+## 📸 Screenshot-HomePage Preview 
+![output text](text.png)
+
+
