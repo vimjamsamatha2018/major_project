@@ -41,6 +41,6 @@ git clone https://github.com/vimjamsamatha2018/major_project.git
 cd major_project
 
 ## 📸 Screenshot-HomePage Preview 
-![output text](text.png)
+[![Model output screenshot](text.png)](text.png)
 
 
